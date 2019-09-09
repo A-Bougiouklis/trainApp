@@ -6,7 +6,6 @@ Table of context
     • Application description 
     • How to run the application
     • Results
-    • Improvements
 
 
 Initial Description
