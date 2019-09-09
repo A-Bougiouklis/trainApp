@@ -56,21 +56,3 @@ Results
 	The application can successfully scrape the needed data from Wikipedia and then use an API to query them. 
   Also via Postman we can examine the functionality of the application and test ether every unit of it or end to end.
 
-
-Improvements
-
-The following could be added to the application as improvements:
-
-    1. The current API was uploaded to a Google Cloud Server but I had issues connecting to it and that is why 
-       I have not added it as an accomplished task. At this form the API can run in local ether via postman or
-       directly from the command line.
-    2. I have noticed some bugs in the system. For example in the previous pictures the first station is 
-       divided into chars even though the station does exist in the model as the Postman test proves. 
-       To further investigate more tests are necessary and of course python unit tests have to be created to ensure
-       the correct behavior of the system.
-    3. The routing algorithm is a little complicated, it can be optimized and the code could be simpler.
-    4. An UI could improve massively the user experience.
-    5. All the possible queries are hard coded into python functions, an SQL database could improve the model 
-       and let the user make any kind of query.
-    6. The usage of each station is captured during the scraping, these data can be used for statistical analysis.
-
