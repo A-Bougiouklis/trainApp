@@ -10,11 +10,9 @@ Table of context
 
 Initial Description
 
-The main requirement for this task was to be able to scrape a Wikipedia table with train stations information 
+The goal of the repo is to scrape a Wikipedia table with train stations information 
 and then build a REST API to query the scraped data. In addition the API has to be able to update the scraped data 
 with new train lines.
-
-
 
 
 Application Description
